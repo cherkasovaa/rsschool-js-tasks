@@ -7,5 +7,3 @@ Collection of tasks from the RSSchool course:
 - [reverse-int](https://github.com/Shastel/reverse-int)
 - [morse-decoder](https://github.com/romacher/morse-decoder.git)
 - [towel-sort](https://github.com/Shastel/towel-sort/)
-
-Each task is solved in a dedicated branch named accordingly.
