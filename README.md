@@ -17,5 +17,3 @@ Collection of tasks from the RSSchool course:
 - [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
 - [core-js-conditions-n-loops-tasks](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
 - [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
-
-Each task is solved in a dedicated branch named accordingly.
